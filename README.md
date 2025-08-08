@@ -19,8 +19,17 @@
 
 **While HTML provides the structure, CSS is used to control the visual presentation (styling) of the page, and JavaScript is used to add interactivity and dynamic behavior.** 
 
-- [HTML Basic](./Basics/README.md), collectively form a working web page
+- [HTML Basic Concepts](./Basics/README.md), collectively form a working web page
     - Tags
     - Elements
     - Attributes
     - Document Structure
+- [HTML Intermediate Concepts](./Intermediate/README.md)
+    - List
+    - Semantis HTML
+    - Forms and Inputs
+    - Tables
+    - Embedding Media
+    - Document Object Model (DOM)
+    - Accessibility
+    - Connecting to other technologies

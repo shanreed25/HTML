@@ -1,9 +1,4 @@
-# HTML Boilerplate
-- pre-written template of HTML code that serves as a starting point for any new HTML document or web project
-- it includes the essential elements and structure required for a valid and functional HTML page, saving developers time and ensuring consistency across projects
-- when starting out it is recommened that you type the boilerplate code out yourself, so that you become acustom with what the structure looks like
-
-### Key components of an HTML boilerplate typically include:
+# Document Structure
 - **`<!DOCTYPE html>` declaration**: tells the browser that the code is in HTML5
     - specifies the HTML version being used and helps browsers render the page correctly
     - the latest version of HTML is HTML5
@@ -22,7 +17,13 @@
 -**`<body></body>` element**:
     - this is where the visible content of the web page resides, including text, images, links, forms, and other structural elements
 
-## Benefits of using an HTML boilerplate
+
+## HTML Boilerplate
+- pre-written template of HTML code that serves as a starting point for any new HTML document or web project
+- it includes the essential elements and structure required for a valid and functional HTML page, saving developers time and ensuring consistency across projects
+- when starting out it is recommened that you type the boilerplate code out yourself, so that you become acustom with what the structure looks like
+
+#### Benefits of using an HTML boilerplate
 - **Time-saving**: provides a ready-to-use foundation, eliminating the need to write the basic structure from scratch for every new project
 - **Consistency**: ensures that all new projects start with a standardized and well-structured base, promoting best practices
 - **Cross-browser compatibility**: often includes elements and practices designed to ensure consistent rendering across different web browsers
