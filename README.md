@@ -4,7 +4,7 @@
     - it's how you navigate the web by clicking on links that take you to different locations
     - describes the text that contains links to other text, images, or other resources. These links, often called hyperlinks, are a key feature of HTML and the World Wide Web
 
-- **Markup Language**: uses tags (like <p>, <a>, <img>) to structure and format content on a webpage
+- **Markup Language**: uses tags (like `<p>`, `<a>`, `<img>`) to structure and format content on a webpage
     - is a markup language, not a programming language
     - means it's used to structure and format content, rather than to execute instructions or perform calculations
     - tags are keywords enclosed in angle brackets
