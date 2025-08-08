@@ -1,5 +1,6 @@
 # Intermediate HTML Concepts
 - these concepts build upon the foundational understanding of basic HTML tags and structure, moving towards creating more complex, accessible, and well-organized web content
+- intermediate HTML involves moving beyond static content creation to build dynamic, interactive, and inclusive web experiences, often by integrating HTML with CSS and JavaScript and adhering to accessibility guidelines
 
 ### [Semantic HTML](./SemanticHTML.md)
 - using appropriate HTML5 elements to convey the meaning and structure of your content, rather than solely for presentation
@@ -22,4 +23,4 @@
 ### Connecting to other technologies
 Understanding how to link external CSS and JavaScript files to an HTML document to control styling and add interactivity.
 Gaining an abstract understanding of the client-server relationship in the context of web development. 
-In essence, intermediate HTML involves moving beyond static content creation to build dynamic, interactive, and inclusive web experiences, often by integrating HTML with CSS and JavaScript and adhering to accessibility guidelines. 
+ 
