@@ -10,4 +10,7 @@
 
 
 ### `href`
-- `<a href="wheretogo"></a>`
+- adding the href attribute and a target will make the anchor tag active
+    - it will be styled in blue and underlined
+    when clicked it will go to the target
+- `<a href="target"></a>`

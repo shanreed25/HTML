@@ -6,6 +6,7 @@
     - Unordered List
     - Ordered List
     - Description Lists (or Definition Lists)
+- each list has attributes that can change the way the look
 
 #### Unordered List `<ul></ul>`
 - `<ul></ul>` is the container for unordered list
@@ -22,10 +23,10 @@
 - each item within an ordered list is defined by the <li> (list item) tag, which typically displays with a numbered or lettered marker by default
 - the numbering/lettering can be customized using the type attribute on the <ol> tag, `type="A"` for uppercase letters
     ```
-        <ul>
+        <ol>
             <li>Step 1</li>
             <li>Step 2</li>
-        </ul>
+        </0l>
     ```
 
 #### Description Lists `<dl></dl>`
